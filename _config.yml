@@ -1,0 +1,28 @@
+name: Louis DePriest
+favicon: null
+layout_spectrum: 0.3500731363892555
+typography_spectrum: 0.8740325870458037
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.12788001727312803
+  lightness: 0.7875868759583682
+  saturation: 0.5288074561394751
+  rhythmicContrast: 0.860213658772409
+purpose: []
