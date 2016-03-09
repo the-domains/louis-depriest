@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Louis DePriest]]></title>
+        <description><![CDATA[Louis DePriest]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 09 Mar 2016 22:22:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Louis De Priest]]></title>
+            <description><![CDATA[<article><h1>Louis De Priest</h1><p>Home of the Blues Pic Project.</p></article>]]></description>
+            <link>undefinedlouis-de-priest/index.html</link>
+            <guid isPermaLink="false">21f4965a-978c-4b86-9512-95b5e83d1160</guid>
+            <pubDate>Wed, 09 Mar 2016 22:22:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
