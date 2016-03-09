@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-09T23:34:17.675Z'
-dateModified: '2016-03-09T23:32:28.908Z'
+datePublished: '2016-03-09T23:41:00.451Z'
+dateModified: '2016-03-09T23:40:53.120Z'
 title: "B.B.King\_"
 author: []
 sourcePath: _posts/2016-03-09-louis-de-priest.md
@@ -22,6 +22,8 @@ url: louis-de-priest/index.html
 _type: Article
 
 ---
+## 
+
 ## [Home of the Blues Pic Project][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c014ffd2-cbfa-41aa-a678-5d9878bca25d.jpg)
 
