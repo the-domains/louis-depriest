@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Louis De Priest Photography]]></title>
-        <description><![CDATA[Louis De Priest Photography]]></description>
+        <title><![CDATA[Louis DePriest Photography]]></title>
+        <description><![CDATA[Louis DePriest Photography]]></description>
         <link>https://thegrid.ai/louis-depriest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 22:57:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2016 23:27:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/louis-depriest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Louis De Priest]]></title>
-            <description><![CDATA[<article><h1>Louis De Priest</h1><p>Home of the Blues Pic Project.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/204f32981e4f3d3d7f7c3fd9ada19972dc08b728.jpg"></article>]]></description>
+            <title><![CDATA[Blues Pic Project]]></title>
+            <description><![CDATA[<article><h1>Blues Pic Project</h1><p>Home of the Blues Pic Project.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4314753c5e2424be3c33b05bfceeca1a0b5fbbc2.jpg"></article>]]></description>
             <link>https://thegrid.ai/louis-depriest/louis-de-priest/index.html</link>
             <guid isPermaLink="false">21f4965a-978c-4b86-9512-95b5e83d1160</guid>
-            <pubDate>Wed, 09 Mar 2016 22:56:58 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2016 23:26:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
