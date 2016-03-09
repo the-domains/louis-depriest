@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Home of the Blues Pic Project.
-datePublished: '2016-03-09T22:55:37.085Z'
-dateModified: '2016-03-09T22:55:12.988Z'
+datePublished: '2016-03-09T22:56:58.615Z'
+dateModified: '2016-03-09T22:56:54.260Z'
 title: Louis De Priest
 author: []
 sourcePath: _posts/2016-03-09-louis-de-priest.md
