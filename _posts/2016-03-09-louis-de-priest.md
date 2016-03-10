@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-10T00:47:46.167Z'
-dateModified: '2016-03-10T00:47:37.375Z'
+datePublished: '2016-03-10T00:54:57.292Z'
+dateModified: '2016-03-10T00:49:01.992Z'
 title: B.B.King
 author: []
 sourcePath: _posts/2016-03-09-louis-de-priest.md
