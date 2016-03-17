@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-17T02:50:46.328Z'
-dateModified: '2016-03-17T02:49:45.355Z'
+datePublished: '2016-03-17T03:00:03.712Z'
+dateModified: '2016-03-17T02:50:51.712Z'
 title: B.B.King
 author: []
 sourcePath: _posts/2016-03-09-louis-de-priest.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: louis-de-priest/index.html
-_type: Article
+_type: Blurb
 
 ---
 ## [Home of the Blues Pic Project][0]
