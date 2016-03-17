@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-11T01:21:26.287Z'
-dateModified: '2016-03-11T01:21:09.802Z'
+datePublished: '2016-03-17T02:50:46.328Z'
+dateModified: '2016-03-17T02:49:45.355Z'
 title: B.B.King
 author: []
 sourcePath: _posts/2016-03-09-louis-de-priest.md
